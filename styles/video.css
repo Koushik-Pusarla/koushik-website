@@ -49,6 +49,27 @@
     row-gap: 40px;
 }
 
+@media (max-width: 750px) {
+    .video-total {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 751px) and (max-width:999px) {
+    .video-total {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width:1000px) {
+    .video-total {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
 .Thumbnail {
     position: relative;
 }
