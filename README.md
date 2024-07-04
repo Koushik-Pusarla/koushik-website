@@ -4,7 +4,7 @@ A static web page clone of YouTube created using HTML and CSS, run using Live Se
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/Koushik-Pusarla/koushik-website/blob/main/index.html
+   git clone https://github.com/Koushik-Pusarla/koushik-website.git
 2. Open the project in Visual Studio Code:
    cd youtube-clone
    code .
